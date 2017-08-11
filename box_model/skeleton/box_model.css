@@ -1,0 +1,42 @@
+div {
+  border: 5px solid black;
+}
+
+#first-div {
+  background-color: #39cccc;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+  height: 200px;
+  width: 200px;
+  padding: 50px;
+}
+
+#third_div {
+  min-height: 10px;
+  background-color: purple;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+.image-1-container {
+  width: 200px;
+  height: 600px;
+  background-color: green;
+}
+
+img[alt="Cat"] {
+  width: 100%;
+}
+
+.image-2-container {
+  min-width: 200px;
+  display: inline-block;
+}
